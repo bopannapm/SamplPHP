@@ -1,3 +1,3 @@
 <?php
 
-echo "Welcome to Vinoth's Tyrell Crop!";
+echo "Hello to MyCompany!";
